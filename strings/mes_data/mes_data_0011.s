@@ -1,6 +1,3 @@
-.incbin ".\strings\mes_data\mes_data_0011.bin"
-
-/*
 ;子文件头
 mes_data_0011_header:
     ;子文件内各文本的相对偏移地址
@@ -747,7 +744,7 @@ mes_data_0011_0642: .strn "黑鱼{结束}"
 mes_data_0011_0643: .strn "西太公鱼{结束}"
 mes_data_0011_0644: .strn "鲣鱼{结束}"
 mes_data_0011_0645: .strn "金枪鱼{结束}"
-mes_data_0011_0646: .strn "翻车鲀{结束}"
+mes_data_0011_0646: .strn "曼波鱼{结束}"
 mes_data_0011_0647: .strn "海鳝{结束}"
 mes_data_0011_0648: .strn "青花鱼{结束}"
 mes_data_0011_0649: .strn "比目鱼{结束}"
@@ -869,4 +866,3 @@ mes_data_0011_0764: .strn "肥料{结束}"
 mes_data_0011_0765: .strn "最后{结束}"
 ;文件尾：控制符，子文件内的文本数
 mes_data_0011_End:  .hword 0x270F,(mes_data_0011_0000 - mes_data_0011_header)/2  
-*/
