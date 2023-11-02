@@ -10,5 +10,4 @@ mes_data_0003_0003: .strn "{2e23}请選择季节。{↙}按{颜2}十字键{颜1}
 mes_data_0003_0004: .strn "{2e23}请選择日期。{↙}按{颜2}十字键{颜1}選择，{↙}{颜2}Ａ键{颜1}确认。{0827}{结束}"
 
 ;文件尾：控制符，子文件内的文本数
-mes_data_0003_End:  .hword (mes_data_0003_0000 - mes_data_0003_header)/2  
-;暂时把.hword 0x270F,不写，用于校验文本
+mes_data_0003_End:  .hword 0x270F,(mes_data_0003_0000 - mes_data_0003_header)/2  
