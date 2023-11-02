@@ -1,0 +1,4 @@
+*.nds
+*.sav
+.temp
+.vscode
