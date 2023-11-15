@@ -7,13 +7,13 @@ mes_data_0015_header:
     .hword (mes_data_0015_0024 - mes_data_0015_header), (mes_data_0015_0025 - mes_data_0015_header), (mes_data_0015_0026 - mes_data_0015_header)
 
 mes_data_0015_0000:
-    .strn "ＤＳ无线通信{结束}"
+    .strn "　{0008}ＤＳ无线通信{结束}"
 mes_data_0015_0001:
     .strn "Ｗｉ－Ｆｉ通信{结束}"
 mes_data_0015_0002:
-    .strn "好友名单{结束}"
+    .strn "{0008}好友名单{结束}"
 mes_data_0015_0003:
-    .strn "返回{结束}"
+    .strn "{0008}返回{结束}"
 mes_data_0015_0004:
     .strn "来到牧场{结束}"
 mes_data_0015_0005:

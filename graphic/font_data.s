@@ -3,6 +3,6 @@
 .incbin ".\graphic\fonts\ChsFontsReplaceJp.4bpp"
 
 
-;;旧版字模残留数据？还是给新字模调用的数据？不确定
+;;1bpp字模
 .org 0xDDBC + 0x0224BD64    
 .incbin ".\graphic\fonts\DataForChsFonts.bin"

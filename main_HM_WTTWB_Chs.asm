@@ -38,3 +38,8 @@
 .create ".\.temp\data\mes_data.bin",0x0
 .include ".\strings\mes_data.s"
 .close
+
+;8.wifi设置汉化
+.create ".\.temp\data\dwc\utility.bin",0x0
+.incbin ".\data\utility.bin"
+.close
