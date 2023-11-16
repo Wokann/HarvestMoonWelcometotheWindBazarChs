@@ -15,11 +15,11 @@ event_mes_data_0140_0000: .strn "{结束}"
 event_mes_data_0140_0001: .strn "{结束}"
 event_mes_data_0140_0002: .strn "{结束}"
 event_mes_data_0140_0003: .strn "{结束}"
-event_mes_data_0140_0004: .strn "模拟{1108}{结束}"
-event_mes_data_0140_0005: .strn "模拟{1208}{结束}"
-event_mes_data_0140_0006: .strn "{411f}{a41f}{481f}{3223}{0008}当然！{↙}{0008}我还没准备好呢{结束}"
-event_mes_data_0140_0007: .strn "{411f}{a41f}{481f}{3223}{0008}马上开始吧！{↙}{0008}我还没准备好呢{结束}"
-event_mes_data_0140_0008: .strn "{411f}{a41f}{481f}{3223}{0008}没问题了！{↙}{0008}等我重新考虑下{结束}"
+event_mes_data_0140_0004: .strn "模拟1{结束}"
+event_mes_data_0140_0005: .strn "模拟2{结束}"
+event_mes_data_0140_0006: .strn "{411f}{a41f}{481f}{3223} 当然！{↙} 我还没准备好呢{结束}"
+event_mes_data_0140_0007: .strn "{411f}{a41f}{481f}{3223} 马上开始吧！{↙} 我还没准备好呢{结束}"
+event_mes_data_0140_0008: .strn "{411f}{a41f}{481f}{3223} 没问题了！{↙} 等我重新考虑下{结束}"
 
 ;文件尾：控制符，子文件内的文本数
 event_mes_data_0140_End: .hword 0x270F,(event_mes_data_0140_0000 - event_mes_data_0140_header)/2
