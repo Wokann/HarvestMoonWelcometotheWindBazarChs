@@ -1,4 +1,4 @@
-;子文件头
+﻿;子文件头
 mes_data_0011_header:
     ;子文件内各文本的相对偏移地址
     .hword (mes_data_0011_0000 - mes_data_0011_header), (mes_data_0011_0001 - mes_data_0011_header), (mes_data_0011_0002 - mes_data_0011_header), (mes_data_0011_0003 - mes_data_0011_header), (mes_data_0011_0004 - mes_data_0011_header), (mes_data_0011_0005 - mes_data_0011_header), (mes_data_0011_0006 - mes_data_0011_header), (mes_data_0011_0007 - mes_data_0011_header) 
@@ -145,7 +145,7 @@ mes_data_0011_0021:
 mes_data_0011_0022:
     .strn "番茄沙拉{结束}"
 mes_data_0011_0023:
-    .strn "番茄芝士沙拉{结束}"
+    .strn "卡布里沙拉{结束}"
 mes_data_0011_0024:
     .strn "意面沙拉{结束}"
 mes_data_0011_0025:
@@ -509,9 +509,9 @@ mes_data_0011_0203:
 mes_data_0011_0204:
     .strn "圆形蛋糕{结束}"
 mes_data_0011_0205:
-    .strn "巧克力蛋糕{结束}"
+    .strn "圆形巧克力蛋糕{结束}"
 mes_data_0011_0206:
-    .strn "芝士蛋糕{结束}"
+    .strn "圆形芝士蛋糕{结束}"
 mes_data_0011_0207:
     .strn "烤年糕{结束}"
 mes_data_0011_0208:
@@ -737,7 +737,7 @@ mes_data_0011_0306:
 mes_data_0011_0307:
     .strn "味噌{结束}"
 mes_data_0011_0308:
-    .strn "葡萄酒{结束}"
+    .strn "红葡萄酒{结束}"
 mes_data_0011_0309:
     .strn "麝香葡萄酒{结束}"
 mes_data_0011_0310:
@@ -1059,7 +1059,7 @@ mes_data_0011_0467:
 mes_data_0011_0468:
     .strn "石材{结束}"
 mes_data_0011_0469:
-    .strn "木头{结束}"
+    .strn "树枝{结束}"
 mes_data_0011_0470:
     .strn "木材{结束}"
 mes_data_0011_0471:
@@ -1079,7 +1079,7 @@ mes_data_0011_0477:
 mes_data_0011_0478:
     .strn "薄荷{结束}"
 mes_data_0011_0479:
-    .strn "甘菊{结束}"
+    .strn "洋甘菊{结束}"
 mes_data_0011_0480:
     .strn "薰衣草{结束}"
 mes_data_0011_0481:
@@ -1569,7 +1569,7 @@ mes_data_0011_0722:
 mes_data_0011_0723:
     .strn "刷子{结束}"
 mes_data_0011_0724:
-    .strn "牛铃{结束}"
+    .strn "铃铛{结束}"
 mes_data_0011_0725:
     .strn "听诊器{结束}"
 mes_data_0011_0726:

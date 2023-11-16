@@ -1,0 +1,56 @@
+.org console_obj_data_0000
+    .incbin ".\graphic\console_obj_data\console_obj_data_0000.bin"
+.org console_obj_data_0006
+    .incbin ".\graphic\console_obj_data\console_obj_data_0006.bin"
+.org console_obj_data_0009
+    .incbin ".\graphic\console_obj_data\console_obj_data_0009.bin"
+.org console_obj_data_0012
+    .incbin ".\graphic\console_obj_data\console_obj_data_0012.bin"
+.org console_obj_data_0015
+    .incbin ".\graphic\console_obj_data\console_obj_data_0015.bin"
+.org console_obj_data_0024
+    .incbin ".\graphic\console_obj_data\console_obj_data_0024.bin"
+.org console_obj_data_0027
+    .incbin ".\graphic\console_obj_data\console_obj_data_0027.bin"
+.org console_obj_data_0030
+    .incbin ".\graphic\console_obj_data\console_obj_data_0030.bin"
+.org console_obj_data_0033
+    .incbin ".\graphic\console_obj_data\console_obj_data_0033.bin"
+.org console_obj_data_0036
+    .incbin ".\graphic\console_obj_data\console_obj_data_0036.bin"
+.org console_obj_data_0045
+    .incbin ".\graphic\console_obj_data\console_obj_data_0045.bin"
+.org console_obj_data_0048
+    .incbin ".\graphic\console_obj_data\console_obj_data_0048.bin"
+.org console_obj_data_0051
+    .incbin ".\graphic\console_obj_data\console_obj_data_0051.bin"
+.org console_obj_data_0056
+    .incbin ".\graphic\console_obj_data\console_obj_data_0056.bin"
+.org console_obj_data_0059
+    .incbin ".\graphic\console_obj_data\console_obj_data_0059.bin"
+.org console_obj_data_0062
+    .incbin ".\graphic\console_obj_data\console_obj_data_0062.bin"
+.org console_obj_data_0068
+    .incbin ".\graphic\console_obj_data\console_obj_data_0068.bin"
+.org console_obj_data_0071
+    .incbin ".\graphic\console_obj_data\console_obj_data_0071.bin"
+.org console_obj_data_0074
+    .incbin ".\graphic\console_obj_data\console_obj_data_0074.bin"
+.org console_obj_data_0077
+    .incbin ".\graphic\console_obj_data\console_obj_data_0077.bin"
+.org console_obj_data_0088
+    .incbin ".\graphic\console_obj_data\console_obj_data_0088.bin"
+.org console_obj_data_0091
+    .incbin ".\graphic\console_obj_data\console_obj_data_0091.bin"
+.org console_obj_data_0102
+    .incbin ".\graphic\console_obj_data\console_obj_data_0102.bin"
+.org console_obj_data_0109
+    .incbin ".\graphic\console_obj_data\console_obj_data_0109.bin"
+.org console_obj_data_0112
+    .incbin ".\graphic\console_obj_data\console_obj_data_0112.bin"
+.org console_obj_data_0115
+    .incbin ".\graphic\console_obj_data\console_obj_data_0115.bin"
+.org console_obj_data_0121
+    .incbin ".\graphic\console_obj_data\console_obj_data_0121.bin"
+.org console_obj_data_0124
+    .incbin ".\graphic\console_obj_data\console_obj_data_0124.bin"

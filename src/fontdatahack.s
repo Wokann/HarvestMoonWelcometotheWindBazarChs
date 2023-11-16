@@ -1,5 +1,6 @@
 ;;汉化代码
-.org 0x1C3C + 0x0224BD64    ;0x0224D9A0
+.org font_data_0005 + 0x66 * 0x40 + 0x0224BD64    ;0x0224D9A0
+;在第5个子文件半角字模的第0x66位上插入汉化代码
 .arm
 Label0224D9A0:
     ldr pc,=(Label0224DAE8|1)  ;[pc,0x18]
@@ -266,9 +267,7 @@ Label0224DB64:
     b 0x0200A308
 
 Label0224DB68:
-    .word 0x746E6F66
-    .word 0x7368635F
-    .word 0x6E69622E
+    .ascii "font_chs.bin"
     .word 0
 Label0224DB78:
     .word 0xFFFFFFFF

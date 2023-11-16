@@ -20,7 +20,7 @@ md .temp
 .\tools\armips.exe .\tools\Fill.asm
 ::
 ::清理临时文件夹
-rd /s /q .\.temp
+::rd /s /q .\.temp
 ::
 ::3秒后自动关闭本窗口
 @echo off
