@@ -51,7 +51,7 @@
 
 ;;替换新片头
 .org console_bg_data_0245
-    .incbin ".\graphic\console_bg_data\245GfxOfIntroCN-new.4bpp"
+    .incbin ".\graphic\console_bg_data\245GfxOfIntroCN-v1.1.4bpp"
 .org console_bg_data_0246
     .incbin ".\graphic\console_bg_data\246PalOfIntroCN.gbapal"
 .org console_bg_data_0247
