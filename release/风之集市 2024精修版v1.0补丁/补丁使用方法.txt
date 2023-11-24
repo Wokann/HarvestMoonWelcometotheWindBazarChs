@@ -1,0 +1,6 @@
+1、打开“DeltaPatcher.exe”。
+2、在“Original file”选择日文原版ROM。
+3、在“XDelta Patch”选择压缩包内附带的对应补丁“***.xdelta”，根据你要生成的文件选择对应补丁。
+4、点击“Apply patch”，等待其完成即可。
+
+日版原版rom及补丁对应生成的汉化rom的hash校验值详见附带的（日版）“baserom_jp.nds_hash.txt”，（汉化版）“***.nds_hash.txt”文件。
